@@ -1,4 +1,6 @@
 # Репозиторий для лабораторных работ по Базам Данных
 ## [ЛР-1](https://github.com/A1adriel/Data-base/blob/main/ЛР-1.pdf)
 ## [ЛР-2](https://github.com/A1adriel/Data-base/blob/main/ЛР-2.pdf)
+## [ЛР-3](https://docs.google.com/document/d/1VfGrpZC6JYgxsow1z184oWad7plADMTAB0TiuC0hXWI/edit?tab=t.0)
+## [ЛР-4](https://docs.google.com/document/d/1a_a5ZcqDROhJX44X5tLtIUidMHnhcly6xfTo2prMeIo/edit?tab=t.0)
 ## [Презентация по Prototype](https://github.com/A1adriel/Data-base/blob/main/Паттерн%20Prototype.pptx)
