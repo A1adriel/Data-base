@@ -3,5 +3,5 @@
 ## [ЛР-2](https://github.com/A1adriel/Data-base/blob/main/ЛР-2.pdf)
 ## [ЛР-3](https://docs.google.com/document/d/1VfGrpZC6JYgxsow1z184oWad7plADMTAB0TiuC0hXWI/edit?tab=t.0)
 ## [ЛР-4](https://docs.google.com/document/d/1a_a5ZcqDROhJX44X5tLtIUidMHnhcly6xfTo2prMeIo/edit?tab=t.0)
-## [ЛР-2](https://github.com/A1adriel/Data-base/tree/main/ЛР-5)
+## [ЛР-5](https://github.com/A1adriel/Data-base/tree/main/ЛР-5)
 ## [Презентация по Prototype](https://github.com/A1adriel/Data-base/blob/main/Паттерн%20Prototype.pptx)
