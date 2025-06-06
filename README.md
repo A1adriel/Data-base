@@ -8,3 +8,4 @@
 ## [СР-2](https://github.com/A1adriel/Data-base/tree/main/Самостоятельная%20работа%20№2)
 ## [СР-3](https://github.com/A1adriel/Data-base/tree/main/Самостоятельная%20работа%20№3)
 ## [Презентация по Prototype](https://github.com/A1adriel/Data-base/blob/main/Паттерн%20Prototype.pptx)
+## [Хранимые процедуры и триггеры](https://github.com/A1adriel/Data-base/tree/main/Хранимые%20процедуры%20и%20триггеры)
